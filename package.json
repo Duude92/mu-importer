@@ -1,0 +1,17 @@
+﻿{
+  "name": "com.duude92.mu-importer",
+  "version": "1.0.0",
+  "description": "This package allows you to import or load MU Online resources.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Duude92/mu-importer.git"
+  },
+  "author": {
+    "name": "Yurii Hladyshenko",
+    "email": "yuriihladyshenko@gmail.com"
+  },
+  "displayName": "MU Online resource importer",
+  "unity": "2021.3",
+  "type": "tool"
+}
