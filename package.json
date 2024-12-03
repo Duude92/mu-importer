@@ -1,7 +1,7 @@
 ﻿{
   "name": "com.duude92.mu-importer",
   "version": "1.0.0",
-  "description": "This package allows you to import or load MU Online resources.",
+  "description": "This package allows you to import or load MU Online resources.\nPlugin supports next extensions: BMD, OBJ, OZJ, OZT, ATT.",
   "license": "MIT",
   "repository": {
     "type": "git",
